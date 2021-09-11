@@ -1,0 +1,24 @@
+name: varce
+channels:
+- defaults
+dependencies:
+- _libgcc_mutex=0.1=main
+- ca-certificates=2020.10.14=0
+- certifi=2020.11.8=py36h06a4308_0
+- libedit=3.1.20191231=h14c3975_1
+- libffi=3.2.1=hf484d3e_1007
+- libgcc-ng=9.1.0=hdf63c60_0
+- libstdcxx-ng=9.1.0=hdf63c60_0
+- ncurses=6.2=he6710b0_1
+- openssl=1.0.2u=h7b6447c_0
+- pip=20.2.4=py36h06a4308_0
+- python=3.6.6=h6e4f718_2
+- readline=7.0=h7b6447c_5
+- setuptools=50.3.1=py36h06a4308_1
+- sqlite=3.33.0=h62c20be_0
+- tk=8.6.10=hbc83047_0
+- wheel=0.35.1=pyhd3eb1b0_0
+- xz=5.2.5=h7b6447c_0
+- zlib=1.2.11=h7b6447c_3
+prefix: /home/bhavani.sambaturu/miniconda2/envs/varce
+
